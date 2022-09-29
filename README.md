@@ -17,3 +17,8 @@ A grocery delivery app is a mobile application that allows users to order grocer
 
 ![image](https://user-images.githubusercontent.com/102991573/192829376-6ebeba05-1073-47db-a202-459343dd9c15.png)
 
+# DEMO VIDEO
+
+
+https://user-images.githubusercontent.com/102991573/193043596-85db52c3-732d-48cc-b909-6a5823edb4bb.mp4
+
