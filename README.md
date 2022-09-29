@@ -4,6 +4,7 @@ Virtual Internship - Android Application Development Using Kotlin
 # About
 I'm K HARIKUMAR REDDY
 I've build this app using my knowledge on android development learnt through this internship.
+A grocery delivery app is a mobile application that allows users to order grocery products and deliver them at home or work. They are an online platform for retailers to gain more business by offering their services in the comfort of your customer's home, at work, or even on the go.
 
 # Screenshots
 ![image](https://user-images.githubusercontent.com/102991573/192829255-bbdbbb4a-4f7f-472a-84d5-ddd8d12952cc.png)
